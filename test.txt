@@ -1,0 +1,11 @@
+This is a sample text for testing question generation.
+
+The Earth is the third planet from the Sun and is the largest of the terrestrial planets. 
+The Earth is the only planet known to have life on it and has one natural satellite - the Moon.
+
+The Earth's atmosphere is composed of:
+1. Nitrogen (78%)
+2. Oxygen (21%)
+3. Other gases including CO2 and water vapor
+
+The Earth has a strong magnetic field that protects it from harmful solar radiation and helps create the beautiful aurora borealis.
